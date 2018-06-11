@@ -1,5 +1,5 @@
 # ✨ reboot-less
-Bootstrap Sass Reboot converted to Less
+Simple Bootstrap Sass reboot converted to Less
 
 * Less variables -> variables.less
 * Reboot rules -> reboot.less
